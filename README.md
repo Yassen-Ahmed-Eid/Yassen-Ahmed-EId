@@ -77,28 +77,15 @@ And I proudly hold leadership roles in science and community initiatives across 
 
 ---
 
-### 🎮 Fun Zone
-
-
+### 🌀 Fun Zone
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&width=600&lines=Pacman+mode+enabled!;Dodging+bugs...;Collecting+stars...;Upgrading+skills+🚀" />
-</p>
-    .--.
-   |o_o |
-   |:_/ |
-  //   \ \
- (|     | )
-/'\_   _/`\
-\___)=(___/
-
-<p align="center">
-  ⬅️ ➡️ 🔼 🔽  
-  <br><strong>Press start to enter dev mode</strong> 💻  
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/blue-pikachu.gif" width="150">
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&color=0fa4f7" />
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Mood-Focused-blue?style=for-the-badge&logo=coffeescript" />
-  <img src="https://img.shields.io/badge/Fuel-Coffee-blue?style=for-the-badge&logo=buy-me-a-coffee" />
-  <img src="https://img.shields.io/badge/Mode-Hyper-blue?style=for-the-badge&logo=geeksforgeeks" />
-</div>
+---
+
+> *“Don’t wait for opportunity. Build it — wire by wire, code by code.”* ⚡  
+> — Yassen Ahmed
