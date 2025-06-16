@@ -80,8 +80,9 @@ And I proudly hold leadership roles in science and community initiatives across 
 ### 🎮 Fun Zone
 
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&width=600&lines=Debugging+is+my+superpower.;Keep+moving+forward...;Welcome+to+my+blue+zone.;Eat+bugs+like+Pacman!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&width=600&lines=Pacman+mode+enabled!;Dodging+bugs...;Collecting+stars...;Upgrading+skills+🚀" />
 </p>
 
 <p align="center">
@@ -90,8 +91,7 @@ And I proudly hold leadership roles in science and community initiatives across 
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Sleep-404_NOT_FOUND-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coffee-Level-Critical-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coding-Time-Now-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mood-Focused-blue?style=for-the-badge&logo=coffeescript" />
+  <img src="https://img.shields.io/badge/Fuel-Coffee-blue?style=for-the-badge&logo=buy-me-a-coffee" />
+  <img src="https://img.shields.io/badge/Mode-Hyper-blue?style=for-the-badge&logo=geeksforgeeks" />
 </div>
-
