@@ -22,21 +22,21 @@ And I proudly hold leadership roles in science and community initiatives across 
 ### 🔧 Languages & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
 </div>
 
 ---
@@ -44,31 +44,49 @@ And I proudly hold leadership roles in science and community initiatives across 
 ### 📬 Contact Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="74" alt="LinkedIn"/></a>
-  <a href="https://wa.me/201278697377"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="74" alt="WhatsApp"/></a>
-  <a href="https://facebook.com/YOUR_LINK"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="74" alt="Facebook"/></a>
-  <a href="https://instagram.com/YOUR_LINK"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="74" alt="Instagram"/></a>
-  <a href="https://discord.com/users/1118903261886418944"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="74" alt="Discord"/></a>
-  <a href="mailto:yaso5mimo@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="74" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/yassen-ahmed-eid-5b2201280" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" />
+  </a>
+  <img width="20" />
+  <a href="https://wa.me/201278697377" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" />
+  </a>
+  <img width="20" />
+  <a href="https://www.facebook.com/YaseeenAhmed" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" />
+  </a>
+  <img width="20" />
+  <a href="https://www.instagram.com/yaseeen_ahmeed/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" />
+  </a>
+  <img width="20" />
+  <a href="https://discord.com/users/1118903261886418944" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" />
+  </a>
+  <img width="20" />
+  <a href="mailto:yaso5mimo@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" />
+  </a>
 </div>
 
 ---
 
-### 🧩 Medium Articles
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="latest medium posts" />
-</div>
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yassen-Ahmed-Eid&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yassen-Ahmed-Eid&theme=tokyonight" />
+</p>
 
 ---
 
-### 🧸 حالة البروفايل
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yassen-Ahmed-Eid&label=Profile+Views&color=orange" alt="Profile Views" />
-  <br>
+  <br><br>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/Arsenic-ATG/Arsenic-ATG/main/assets/pokemon.gif" height="100" />
+  <img src="https://media.giphy.com/media/1kCZnCEY2SAU6pIpm7/giphy.gif" height="100" alt="Pacman" />
   <br>
-  <strong>Current Mood:</strong> 🧠 Focused | 🔥 Building | ☕ Coffee Level: Critical
+  <strong>Current Mood:</strong> 🧠 Focused | 🎮 Playing with Packman | ☕ Coffee Level: Critical
 </p>
