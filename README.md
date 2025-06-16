@@ -79,23 +79,19 @@ And I proudly hold leadership roles in science and community initiatives across 
 
 ### 🎮 Fun Zone
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yassen-Ahmed-Eid/Yassen-Ahmed-Eid/main/assets/pacman.gif" height="80" alt="pacman" />
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" height="80" alt="pikachu dancing" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="80" alt="Mario" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&width=600&lines=Debugging+is+my+superpower.;Keep+moving+forward...;Welcome+to+my+blue+zone.;Eat+bugs+like+Pacman!" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Keep+coding...+Keep+winning!;Coffee%2C+Code%2C+Repeat.;Debugging+is+my+cardio.;Fun+fact%3A+I+love+tech+more+than+sleep!" />
+  ⬅️ ➡️ 🔼 🔽  
+  <br><strong>Press start to enter dev mode</strong> 💻  
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" alt="coding gif" />
+  <img src="https://img.shields.io/badge/Sleep-404_NOT_FOUND-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coffee-Level-Critical-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coding-Time-Now-blue?style=for-the-badge" />
 </div>
-
-<p align="center">
-  <strong>🎧 Music Vibe:</strong> <em>LoFi while Coding...</em> 🎶<br>
-  <strong>🎯 Challenge of the Day:</strong> Refactor something ugly in your code 💻<br>
-  <strong>🎁 Random Tip:</strong> Commit often... blame less 😜
-</p>
 
