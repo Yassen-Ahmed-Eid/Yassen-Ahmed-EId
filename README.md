@@ -80,9 +80,9 @@ And I proudly hold leadership roles in science and community initiatives across 
 ### 🌀 Fun Zone
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/blue-pikachu.gif" width="150">
-  <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&color=0fa4f7" />
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="150" alt="pokemon"/>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=🔥+Total+Visitors&color=0fa4f7&style=for-the-badge" alt="visitor badge"/>
 </p>
 
 ---
