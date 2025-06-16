@@ -84,6 +84,13 @@ And I proudly hold leadership roles in science and community initiatives across 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&width=600&lines=Pacman+mode+enabled!;Dodging+bugs...;Collecting+stars...;Upgrading+skills+🚀" />
 </p>
+    .--.
+   |o_o |
+   |:_/ |
+  //   \ \
+ (|     | )
+/'\_   _/`\
+\___)=(___/
 
 <p align="center">
   ⬅️ ➡️ 🔼 🔽  
