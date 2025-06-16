@@ -1,86 +1,54 @@
 <h1 align="center">Hi 👋, I'm Yassen Ahmed Eid</h1>
-<h3 align="center">A passionate developer from Egypt 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7971E&width=435&lines=Front-end+Developer;Arduino+Projects+Maker;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+###
 
----
+<h2 align="center">QSC S'26 - Head RSTC - Arduino Instructor - Embedded Software Developer - Frontend Developer</h2>
 
-## 🧑‍💻 About Me
-- 🔭 I’m currently working on **smart agriculture solutions**
-- 🌱 I’m currently learning **React, Firebase, IoT**
-- 👯 I’m looking to collaborate on **open-source and AI-powered apps**
-- 💬 Ask me about **HTML, CSS, JS, Arduino, MIT App Inventor**
-- 📫 How to reach me: [yaso5mimo@gmail.com](mailto:yaso5mimo@gmail.com)
-- ⚡ Fun fact: I turn crazy ideas into working code ⚙️
+###
 
----
+<br clear="both">
 
-## 🛠️ Languages and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,arduino,python,c,vscode,figma,github" />
-</p>
+<p align="left">About me<br><br>I am a high school student at Qena STEM School with a strong passion for scientific research and technology. I’ve <br>developed innovative projects like an electric fencing sword and an alternative solar cell, both submitted for patents. <br>As an Embedded Software and Frontend Developer, I’ve built real-world projects using Arduino, C/C++, and <br>modern web technologies. <br>I’ve competed in 25+ national competitions (ISEF, IEEE, ITC, STEMCO, NASA Assiut) with top rankings, and <br>completed 120+ certified courses in AI, programming, project management, and design. I also hold leadership roles <br>in science and community initiatives across Egypt.</p>
+
+###
+
+<h3 align="center">Contact</h3>
+
+###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yassen-Ahmed-Eid&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yassen-Ahmed-Eid&theme=react&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🔗 Socials
+###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="74" height="50" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="74" height="50" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="74" height="50" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="74" height="50" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="74" height="50" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="74" height="50" alt="gmail logo"  />
 </div>
 
----
+###
 
-## 🚀 Top Projects
-- [🛰️ Smart Agriculture System](https://github.com/Yassen-Ahmed-Eid/Smart-Agro)
-- [💡 IoT Home Automation](https://github.com/YOUR_REPO)
-- [🕹️ Space Invaders Game](https://github.com/YOUR_REPO)
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
----
-
-## 🧠 My Learning Journey
-```mermaid
-graph TD;
-  HTML-->CSS;
-  CSS-->JS;
-  JS-->React;
-  React-->Firebase;
-  Firebase-->IoT;
-  IoT-->Arduino;
-  Arduino-->AI;
+###
