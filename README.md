@@ -1,66 +1,86 @@
-<h1 align="center">Hi 👋, I'm Yassen Ahmed</h1>
-<h3 align="center">High School Innovator | Embedded & Frontend Developer | Passionate about Research and Renewable Energy</h3>
+<h1 align="center">Hi 👋, I'm Yassen Ahmed Eid</h1>
+<h3 align="center">A passionate developer from Egypt 🚀</h3>
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/pokemon.gif" width="200" alt="pikachu">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7971E&width=435&lines=Front-end+Developer;Arduino+Projects+Maker;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Alternative Solar Cell & Smart Agriculture Systems**
-- ⚡ Fun fact: I'm still in high school but already filed **3 patents**
-- 🏆 Participated in **25+ competitions** (ISEF, IEEE, NASA, STEMCO)
-- 📚 Completed **120+ certified courses** in AI, coding, design, and business
-- 👯 I’m looking to collaborate on **impactful tech projects**
-- 🗣 I speak Arabic (native), English (fluent), French (basic)
-
----
-
-### 🛠️ Tools & Technologies I Use
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+## 🧑‍💻 About Me
+- 🔭 I’m currently working on **smart agriculture solutions**
+- 🌱 I’m currently learning **React, Firebase, IoT**
+- 👯 I’m looking to collaborate on **open-source and AI-powered apps**
+- 💬 Ask me about **HTML, CSS, JS, Arduino, MIT App Inventor**
+- 📫 How to reach me: [yaso5mimo@gmail.com](mailto:yaso5mimo@gmail.com)
+- ⚡ Fun fact: I turn crazy ideas into working code ⚙️
 
 ---
 
-### 🌐 Connect with me
+## 🛠️ Languages and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,arduino,python,c,vscode,figma,github" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yassen.2323053@stemqena.moe.edu.eg)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yassen-Ahmed-Eid&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yassen-Ahmed-Eid&theme=react&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 🎮 Visitors & Fun
+## 🔗 Socials
 
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/pokemon-running.gif" width="150">
-  <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" alt="visitor badge"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
+</div>
 
 ---
 
+## 🚀 Top Projects
+- [🛰️ Smart Agriculture System](https://github.com/Yassen-Ahmed-Eid/Smart-Agro)
+- [💡 IoT Home Automation](https://github.com/YOUR_REPO)
+- [🕹️ Space Invaders Game](https://github.com/YOUR_REPO)
+
+---
+
+## 🧠 My Learning Journey
+```mermaid
+graph TD;
+  HTML-->CSS;
+  CSS-->JS;
+  JS-->React;
+  React-->Firebase;
+  Firebase-->IoT;
+  IoT-->Arduino;
+  Arduino-->AI;
