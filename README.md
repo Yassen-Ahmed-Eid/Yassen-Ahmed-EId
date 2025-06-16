@@ -75,14 +75,27 @@ And I proudly hold leadership roles in science and community initiatives across 
 
 ---
 
+---
+
 ### 🎮 Fun Zone
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yassen-Ahmed-Eid&label=Profile+Views&color=orange" alt="Profile Views" />
-  <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&width=500&lines=Stay+curious...+Keep+building!;Welcome+to+my+GitHub+profile!" alt="Motivation Typewriter" />
-  <br><br>
-  <img src="https://media.giphy.com/media/1kCZnCEY2SAU6pIpm7/giphy.gif" height="100" alt="Pacman" />
-  <br>
-  <strong>Current Mood:</strong> 🧠 Focused | 🎮 Playing with Pacman | ☕ Coffee Level: Critical
+  <img src="https://raw.githubusercontent.com/Yassen-Ahmed-Eid/Yassen-Ahmed-Eid/main/assets/pacman.gif" height="80" alt="pacman" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" height="80" alt="pikachu dancing" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="80" alt="Mario" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Keep+coding...+Keep+winning!;Coffee%2C+Code%2C+Repeat.;Debugging+is+my+cardio.;Fun+fact%3A+I+love+tech+more+than+sleep!" />
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" alt="coding gif" />
+</div>
+
+<p align="center">
+  <strong>🎧 Music Vibe:</strong> <em>LoFi while Coding...</em> 🎶<br>
+  <strong>🎯 Challenge of the Day:</strong> Refactor something ugly in your code 💻<br>
+  <strong>🎁 Random Tip:</strong> Commit often... blame less 😜
+</p>
+
