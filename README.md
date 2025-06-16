@@ -45,22 +45,22 @@ And I proudly hold leadership roles in science and community initiatives across 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yassen-ahmed-eid-5b2201280" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" />
+  </a>&nbsp;&nbsp;
   <a href="https://wa.me/201278697377" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="35" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/YaseeenAhmed" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="35" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/yaseeen_ahmeed/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" />
+  </a>&nbsp;&nbsp;
   <a href="https://discord.com/users/1118903261886418944" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:yaso5mimo@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" />
   </a>
 </div>
 
@@ -73,19 +73,29 @@ And I proudly hold leadership roles in science and community initiatives across 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yassen-Ahmed-Eid&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassen-Ahmed-Eid&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yassen-Ahmed-Eid&theme=tokyonight&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yassen-Ahmed-Eid&theme=tokyo-night" />
+</p>
 
 ---
 
 ### 🌀 Fun Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="150" alt="pokemon"/>
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="120" alt="Pokemon GIF"/>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=🔥+Total+Visitors&color=0fa4f7&style=for-the-badge" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Yassen-Ahmed-Eid&label=🔥+Total+Visitors&color=0fa4f7&style=for-the-badge" alt="visitor badge"/>
 </p>
 
 ---
 
 > *“Don’t wait for opportunity. Build it — wire by wire, code by code.”* ⚡  
-> — Yassen Ahmed
+> — Yassen Ahmed Eid
