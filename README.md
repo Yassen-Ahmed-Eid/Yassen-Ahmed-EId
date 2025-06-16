@@ -19,7 +19,7 @@ And I proudly hold leadership roles in science and community initiatives across 
 
 ---
 
-### 🔧 Languages & Tools
+### 🛠️ Languages & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
@@ -41,29 +41,24 @@ And I proudly hold leadership roles in science and community initiatives across 
 
 ---
 
-### 📬 Contact Me
+### 🌐 Contact Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yassen-ahmed-eid-5b2201280" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" />
-  </a>
-  <img width="20" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/201278697377" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" />
-  </a>
-  <img width="20" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/YaseeenAhmed" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" />
-  </a>
-  <img width="20" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/yaseeen_ahmeed/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" />
-  </a>
-  <img width="20" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/1118903261886418944" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" />
-  </a>
-  <img width="20" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:yaso5mimo@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" />
   </a>
@@ -71,7 +66,7 @@ And I proudly hold leadership roles in science and community initiatives across 
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yassen-Ahmed-Eid&show_icons=true&theme=tokyonight" />
@@ -80,13 +75,14 @@ And I proudly hold leadership roles in science and community initiatives across 
 
 ---
 
+### 🎮 Fun Zone
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yassen-Ahmed-Eid&label=Profile+Views&color=orange" alt="Profile Views" />
   <br><br>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&width=500&lines=Stay+curious...+Keep+building!;Welcome+to+my+GitHub+profile!" alt="Motivation Typewriter" />
   <br><br>
   <img src="https://media.giphy.com/media/1kCZnCEY2SAU6pIpm7/giphy.gif" height="100" alt="Pacman" />
   <br>
-  <strong>Current Mood:</strong> 🧠 Focused | 🎮 Playing with Packman | ☕ Coffee Level: Critical
+  <strong>Current Mood:</strong> 🧠 Focused | 🎮 Playing with Pacman | ☕ Coffee Level: Critical
 </p>
